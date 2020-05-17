@@ -1,16 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <!-- global messages -->
-    <string name="app_name">Apk Extractor</string>
-
-    <!-- Menu Strings and messages -->
-    <string name="action_search">Search</string>
-    <string name="acton_rate_us">Rate us</string>
-    <string name="action_file">file</string>
-    <string name="action_share">share</string>
-    <string name="str_show_system_apps">Show System Apps</string>
-    <string name="str_show_user_apps">Show User Apps</string>
+"action_search">Search</string>
+"acton_rate_us">Rate us</string>
+"action_file">file</string>
+"action_share">share</string>
+"str_show_system_apps">Show System Apps</string>
+"str_show_user_apps">Show User Apps</string>
     <string name="show_all_apps_title">Show all applications</string>
     <string name="settings">Settings</string>
 
